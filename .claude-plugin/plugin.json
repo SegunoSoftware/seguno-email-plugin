@@ -1,0 +1,10 @@
+{
+  "name": "seguno-email",
+  "version": "0.1.0",
+  "description": "Draft and revise Seguno marketing emails conversationally, grounded in real store data via the Seguno MCP server.",
+  "author": {
+    "name": "Daniel Manila",
+    "email": "daniel@seguno.com"
+  },
+  "keywords": ["seguno", "email", "marketing", "shopify"]
+}
