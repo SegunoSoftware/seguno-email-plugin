@@ -1,6 +1,6 @@
 {
   "name": "seguno-email",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Draft and revise Seguno marketing emails conversationally, grounded in real store data via the Seguno MCP server.",
   "author": {
     "name": "Daniel Manila",
