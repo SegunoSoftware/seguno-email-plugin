@@ -2,9 +2,8 @@
   "name": "seguno-email",
   "version": "0.1.0",
   "description": "Draft and revise Seguno marketing emails conversationally, grounded in real store data via the Seguno MCP server.",
-  "privacyPolicyUrl": "https://www.seguno.com/privacy",
   "license": "MIT",
-  "icon": "seguno-icon.svg",
+  "icon": "seguno-icon.png",
   "author": {
     "name": "Chris Geiss",
     "email": "chris@seguno.com"
