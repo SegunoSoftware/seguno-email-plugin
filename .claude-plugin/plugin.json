@@ -1,12 +1,13 @@
 {
-  "name": "seguno-email",
-  "version": "0.1.0",
-  "description": "Draft and revise Seguno marketing emails conversationally, grounded in real store data via the Seguno MCP server.",
-  "license": "MIT",
-  "icon": "seguno-icon.png",
-  "author": {
-    "name": "Chris Geiss",
-    "email": "chris@seguno.com"
-  },
-  "keywords": ["seguno", "email", "marketing", "shopify"]
+	"name": "seguno-email",
+	"displayName": "Seguno",
+	"version": "0.1.0",
+	"description": "Draft and revise Seguno marketing emails conversationally, grounded in real store data via the Seguno MCP server.",
+	"license": "MIT",
+	"icon": "./seguno-icon.png",
+	"homepage": "https://www.seguno.com",
+	"author": {
+		"name": "Seguno Software"
+	},
+	"keywords": ["seguno", "email", "marketing", "shopify"]
 }
