@@ -4,8 +4,8 @@
 	"version": "0.1.0",
 	"description": "Draft and revise Seguno marketing emails conversationally, grounded in real store data via the Seguno MCP server.",
 	"license": "MIT",
-	"icon": "./seguno-icon.png",
 	"homepage": "https://www.seguno.com",
+	"privacyPolicyUrl": "https://www.seguno.com/privacy",
 	"author": {
 		"name": "Seguno Software"
 	},
